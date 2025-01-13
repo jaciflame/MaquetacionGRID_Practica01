@@ -20,7 +20,7 @@ El proyecto incluye:
   - Iconos de redes sociales con enlaces externos.
 
 ## Despliegue
-[Accede al sitio web aquí]()
+No se ha desplegado
 
 ## Construido con
 - **HTML5:** Proporciona la estructura básica del contenido.
@@ -40,4 +40,4 @@ Este proyecto está en la versión 1.0.0.
 Este proyecto no está bajo ninguna licencia.
 
 ## Recursos Adicionales
-- [Repositorio en GitHub]()
+- [Repositorio en GitHub](https://github.com/jaciflame/MaquetacionGRID_Practica01)
